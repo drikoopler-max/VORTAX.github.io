@@ -85,7 +85,7 @@
         
         /* Баннер */
         .banner {
-            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://drive.google.com/uc?export=view&id=1YOUR_BANNER_ID');
+            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('assets_task_01k4ffsghmeys877gmesfbt6ax_1757161607_img_1.webp');
             background-size: cover;
             background-position: center;
             height: 500px;
