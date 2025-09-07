@@ -337,7 +337,7 @@
     <header>
         <div class="container header-content">
             <div class="logo">
-                <img src="https://drive.google.com/uc?export=view&id=1YOUR_LOGO_ID" alt="Vorax Logo">
+                <img src="assets_task_01k4d9gwwfe42rdvsxnxtk7s53_1757087862_img_0.webp" alt="Vorax Logo">
                 <h1>VORAX</h1>
             </div>
             <nav>
